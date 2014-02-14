@@ -12,6 +12,8 @@
 
         <name>spr-data</name>
 
+    <!-- build config  -->
+
         <build>
             <finalName>dpr-data</finalName>
             <plugins>
